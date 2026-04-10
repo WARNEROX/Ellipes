@@ -1,0 +1,2 @@
+# Ellipes
+The personal ai 
