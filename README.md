@@ -1,2 +1,2 @@
 # Ellipes
-The personal ai 
+The persona
