@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef, useCallback } from "react";
+bimport { useState, useEffect, useRef, useCallback } from "react";
 
 const LOGO_URL = "/mnt/user-data/uploads/Green_White_Professional_Minimal_Brand_Logo_20260407_141037_0000.png";
 
